@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Survivor2017</string>
+
+
+    <string name="results_button">Results</string>
+
+
+    <string name="reset_button">Reset</string>
+
+    <!-- Question 3 text input -->
+    <string name="user_input">Type your answer here</string>
+
+
+    <!-- !!!Questions!!! -->
+    <!-- Question1 -->
+    <string name="question1_text">How many people are into the Celebs clique?</string>
+    <string name="answer_1_1">6</string>
+    <string name="answer_1_2">5</string>
+    <string name="answer_1_3">4</string>
+    <string name="answer_1_4">3</string>
+
+    <!-- Question2 -->
+    <string name="question2_text">Who has never won at a match?</string>
+    <string name="answer_2_1">Eirini Kollida</string>
+    <string name="answer_2_2">Panos Argianidis</string>
+    <string name="answer_2_3">Elisabet Dobliatidoy</string>
+    <string name="answer_2_4">Eirini Ainatziogloy</string>
+
+    <!-- Question3 -->
+    <string name="question3_text">People call him by this nickname</string>
+
+
+    <!-- Question4 -->
+    <string name="question4_text">From the players in both teams who has allegedly slept with 4000 women?</string>
+    <string name="answer_4_1">Giorgos Aggelopoylos</string>
+    <string name="answer_4_2">Kostas Kokkinakis</string>
+    <string name="answer_4_3">Giannis Spaliaras</string>
+    <string name="answer_4_4">Giorgos Xraniotis</string>
+
+    <!-- Question5 -->
+    <string name="question5_text">How much each episode costs to produce?</string>
+    <string name="answer_5_1">$1 million</string>
+    <string name="answer_5_2">$2 million</string>
+    <string name="answer_5_3">$3 million</string>
+    <string name="answer_5_4">$4 million</string>
+
+    <!-- Question7 -->
+    <string name="question6_text">How many players will remain when 2 teams merge?</string>
+    <string name="answer_6_1">16</string>
+    <string name="answer_6_2">13</string>
+    <string name="answer_6_3">10</string>
+    <string name="answer_6_4">8</string>
+
+    <!-- Question6 -->
+    <string name="question7_text">How many poeple can be candidates to leave from the game?</string>
+    <string name="answer_7_1">3</string>
+    <string name="answer_7_2">2</string>
+    <string name="answer_7_3">4</string>
+    <string name="answer_7_4">5</string>
+
+
+    <!-- Question8 -->
+    <string name="question8_text">What is the nickname of the above player</string>
+    <string name="answer_8_1">liontari</string>
+    <string name="answer_8_2">elafi</string>
+    <string name="answer_8_3">mpoulntoza</string>
+    <string name="answer_8_4">odostrotiras</string>
+
+    <!-- Question9 -->
+    <string name="question9_text">Who is the oldest player?</string>
+    <string name="answer_9_1">Giannis Spaliaras</string>
+    <string name="answer_9_2">Giorgos Xraniotis</string>
+    <string name="answer_9_3">Kostas Kokkinakis</string>
+    <string name="answer_9_4">Lampros Xoytos</string>
+
+
+</resources>
